@@ -1,3 +1,3 @@
 # projetinhos
 
-pasta ddeprojetinhos hehe
+pasta de projetos
